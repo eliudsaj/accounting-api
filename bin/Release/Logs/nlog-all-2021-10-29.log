@@ -1,0 +1,147 @@
+2021-10-29 08:22:26.3327|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-29 08:22:26.4059|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-29 08:22:26.4059|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-29 08:24:19.6815|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 08:24:25.4415|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-29 08:58:52.0038|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 08:58:52.0915|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-29 09:20:31.1589|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 09:20:31.3775|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-29 09:22:34.5465|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 09:22:34.5801|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-29 09:24:08.7100|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 09:24:08.7612|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-29 09:28:52.0740|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 09:28:52.1714|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-29 09:30:33.0171|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 09:30:33.0470|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-29 09:39:44.0237|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 09:39:44.2164|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-29 10:35:01.5147|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 10:35:01.5823|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-29 12:08:43.7610|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-29 12:08:43.8077|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-29 12:08:43.8126|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-29 12:10:17.7260|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-29 12:10:17.7518|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-29 12:10:17.7518|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-29 12:11:55.1117|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-29 12:11:55.1382|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-29 12:11:55.1425|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-29 12:12:44.6996|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-29 12:12:44.7259|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-29 12:12:44.7259|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-29 12:13:43.5387|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-29 12:13:43.5650|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-29 12:13:43.5650|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-29 12:17:21.0895|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-29 12:17:21.1155|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-29 12:17:21.1155|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-29 12:20:35.2632|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-29 12:20:35.2941|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-29 12:20:35.2997|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-29 12:24:26.7137|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-29 12:24:26.7402|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-29 12:24:26.7402|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-29 12:25:41.0822|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-29 12:25:41.1111|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-29 12:25:41.1111|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-29 12:44:56.6599|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-29 12:44:56.6867|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-29 12:44:56.6867|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-29 13:09:07.1949|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 13:09:08.0817|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-29 13:10:50.0460|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-29 13:10:50.0739|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-29 13:10:50.0800|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-29 13:11:25.8218|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 13:11:26.6889|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-29 13:15:20.6794|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 13:15:20.7163|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-29 13:16:41.9630|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 13:16:42.0635|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-29 13:22:19.3012|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 13:22:19.3873|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-29 13:27:45.7019|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 13:27:45.7889|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-29 13:32:11.2571|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 13:32:11.2966|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-29 13:33:39.9715|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 13:33:43.4120|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-29 13:36:27.8738|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 13:36:27.9061|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-29 13:43:36.7145|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 13:43:36.8011|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-29 13:45:03.2121|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 13:45:03.2433|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-29 13:46:13.6689|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-29 13:46:13.7052|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-29 13:46:13.7052|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-29 13:46:32.7424|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 13:46:34.1019|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-29 13:47:18.3153|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 13:47:18.3509|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-29 13:50:22.9219|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 13:50:22.9640|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-29 14:03:50.2706|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 14:03:50.3618|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-29 14:06:09.1939|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 14:06:09.2268|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-29 14:11:07.0098|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 14:11:07.1089|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-29 14:13:38.7461|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 14:13:38.8031|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-29 14:15:52.8900|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 14:15:52.9306|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-29 14:59:16.2333|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-29 14:59:16.2908|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-29 14:59:16.2908|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-29 14:59:31.6671|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 14:59:32.4413|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-29 15:00:10.6185|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-29 15:00:10.6459|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-29 15:00:10.6847|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-29 15:02:09.1599|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-29 15:02:09.1877|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-29 15:02:09.1937|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-29 15:02:37.4206|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-10-29 15:03:06.5741|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-29 15:03:06.5997|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-29 15:03:06.5997|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-29 15:03:52.5778|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-29 15:03:52.6029|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-29 15:03:52.6029|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-29 15:04:47.3982|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-29 15:04:47.4237|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-29 15:04:47.4285|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-29 15:20:31.9236|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 15:20:32.0322|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-29 15:23:28.4668|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 15:23:28.5260|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-29 15:26:22.1544|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 15:26:22.2181|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-29 15:59:49.8580|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-29 15:59:49.8912|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-29 15:59:49.8966|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-29 15:59:54.1707|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 15:59:55.3808|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-29 16:00:27.9106|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-10-29 16:01:14.8059|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-10-29 16:03:03.0041|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-29 16:03:03.0297|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-29 16:03:03.0351|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-29 16:03:39.8738|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 16:03:40.6138|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-29 16:05:10.2174|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-29 16:05:10.2464|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-29 16:05:10.2464|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-29 16:06:26.4055|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 16:06:26.5557|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-29 16:44:08.1172|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 16:44:08.2966|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-29 16:52:49.7853|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 16:52:49.8496|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-29 16:58:13.5700|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 16:58:13.7749|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-29 16:59:02.0588|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-29 16:59:02.0907|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method

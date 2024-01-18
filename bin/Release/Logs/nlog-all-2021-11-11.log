@@ -1,0 +1,2 @@
+2021-11-11 08:12:08.0984|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-11-11 08:12:08.6928|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method

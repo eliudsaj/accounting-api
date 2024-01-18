@@ -1,0 +1,253 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\EmailTemplates\\Company_Trial_Register.html",
+      "PackagePath": "staticwebassets\\EmailTemplates\\Company_Trial_Register.html"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\EmailTemplates\\PurchaseReceiptPayment.html",
+      "PackagePath": "staticwebassets\\EmailTemplates\\PurchaseReceiptPayment.html"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\EmailTemplates\\PurchaseRequest.html",
+      "PackagePath": "staticwebassets\\EmailTemplates\\PurchaseRequest.html"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\EmailTemplates\\QuotationEmailTemplate.html",
+      "PackagePath": "staticwebassets\\EmailTemplates\\QuotationEmailTemplate.html"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\EmailTemplates\\Register.html",
+      "PackagePath": "staticwebassets\\EmailTemplates\\Register.html"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\EmailTemplates\\RegisterStaff.html",
+      "PackagePath": "staticwebassets\\EmailTemplates\\RegisterStaff.html"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\EmailTemplates\\SalesReceiptPayment.html",
+      "PackagePath": "staticwebassets\\EmailTemplates\\SalesReceiptPayment.html"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\EmailTemplates\\staff_welcome.html",
+      "PackagePath": "staticwebassets\\EmailTemplates\\staff_welcome.html"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\company_profile\\invoice_default.jpg",
+      "PackagePath": "staticwebassets\\Images\\company_profile\\invoice_default.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\company_profile\\ngenx.jpg",
+      "PackagePath": "staticwebassets\\Images\\company_profile\\ngenx.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\company_profile\\ngenx_logo.png",
+      "PackagePath": "staticwebassets\\Images\\company_profile\\ngenx_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\email_images\\purchaseRequest_snipp.png",
+      "PackagePath": "staticwebassets\\Images\\email_images\\purchaseRequest_snipp.png"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\inventory\\00d23ac0-ec96-40e9-b7b7-e001305f691b.jpg",
+      "PackagePath": "staticwebassets\\Images\\inventory\\00d23ac0-ec96-40e9-b7b7-e001305f691b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\inventory\\05297758-749f-4b67-adfd-d5abad361d93.jpg",
+      "PackagePath": "staticwebassets\\Images\\inventory\\05297758-749f-4b67-adfd-d5abad361d93.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\inventory\\0872d81d-7d67-4db2-a09e-e081e44041ed.jpg",
+      "PackagePath": "staticwebassets\\Images\\inventory\\0872d81d-7d67-4db2-a09e-e081e44041ed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\inventory\\11883c35-290d-47d7-89b8-a15db273dda1.jpg",
+      "PackagePath": "staticwebassets\\Images\\inventory\\11883c35-290d-47d7-89b8-a15db273dda1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\inventory\\153828b0-2704-461a-985e-9a62e0934b4c.jpg",
+      "PackagePath": "staticwebassets\\Images\\inventory\\153828b0-2704-461a-985e-9a62e0934b4c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\inventory\\1b8a470f-6d17-4dc0-9003-9c77aba228aa.jpg",
+      "PackagePath": "staticwebassets\\Images\\inventory\\1b8a470f-6d17-4dc0-9003-9c77aba228aa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\inventory\\1f144b66-6a47-40a3-9e22-2ccba42c44c1.jpg",
+      "PackagePath": "staticwebassets\\Images\\inventory\\1f144b66-6a47-40a3-9e22-2ccba42c44c1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\inventory\\20e285c9-ed3a-4f3e-8ce9-59618de7ae71.jpg",
+      "PackagePath": "staticwebassets\\Images\\inventory\\20e285c9-ed3a-4f3e-8ce9-59618de7ae71.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\inventory\\2d762ebe-ca71-426e-b385-4f571752b714.jpg",
+      "PackagePath": "staticwebassets\\Images\\inventory\\2d762ebe-ca71-426e-b385-4f571752b714.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\inventory\\351c0d44-3d82-42c7-ad0a-4d4697212ef3.jpg",
+      "PackagePath": "staticwebassets\\Images\\inventory\\351c0d44-3d82-42c7-ad0a-4d4697212ef3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\inventory\\47c548f2-fcff-4b86-ad2a-25773f280bdc.jpg",
+      "PackagePath": "staticwebassets\\Images\\inventory\\47c548f2-fcff-4b86-ad2a-25773f280bdc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\inventory\\5494d869-56be-4c94-8ee3-dd6b13d8d3d7.jpg",
+      "PackagePath": "staticwebassets\\Images\\inventory\\5494d869-56be-4c94-8ee3-dd6b13d8d3d7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\inventory\\5f9dbc3f-864d-475b-b032-0472177c8814.jpg",
+      "PackagePath": "staticwebassets\\Images\\inventory\\5f9dbc3f-864d-475b-b032-0472177c8814.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\inventory\\62397977-bdfd-49e9-afee-564129705a0e.jpg",
+      "PackagePath": "staticwebassets\\Images\\inventory\\62397977-bdfd-49e9-afee-564129705a0e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\inventory\\6253009f-2cf0-4aac-8376-49291426ffe4.jpg",
+      "PackagePath": "staticwebassets\\Images\\inventory\\6253009f-2cf0-4aac-8376-49291426ffe4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\inventory\\6683062e-14d8-4f60-b158-f1ead14e5f54.jpg",
+      "PackagePath": "staticwebassets\\Images\\inventory\\6683062e-14d8-4f60-b158-f1ead14e5f54.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\inventory\\7e97dcfe-9450-49d3-a678-fa78c5db1a5b.jpg",
+      "PackagePath": "staticwebassets\\Images\\inventory\\7e97dcfe-9450-49d3-a678-fa78c5db1a5b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\inventory\\85442085-a20b-414f-9bf4-b6bacc2cd560.jpg",
+      "PackagePath": "staticwebassets\\Images\\inventory\\85442085-a20b-414f-9bf4-b6bacc2cd560.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\inventory\\8edd1ebe-2c27-4d34-a03d-4bf679a63975.jpg",
+      "PackagePath": "staticwebassets\\Images\\inventory\\8edd1ebe-2c27-4d34-a03d-4bf679a63975.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\inventory\\8f56e4e5-5d29-424f-b75f-9ab0f4481bbb.jpg",
+      "PackagePath": "staticwebassets\\Images\\inventory\\8f56e4e5-5d29-424f-b75f-9ab0f4481bbb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\inventory\\8ff51ed2-ba98-46d7-9616-9010feab9e27.jpg",
+      "PackagePath": "staticwebassets\\Images\\inventory\\8ff51ed2-ba98-46d7-9616-9010feab9e27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\inventory\\99bfdf51-9048-4b38-ac5a-2c643c897c30.jpg",
+      "PackagePath": "staticwebassets\\Images\\inventory\\99bfdf51-9048-4b38-ac5a-2c643c897c30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\inventory\\99d29aec-acb2-4ad0-8cc2-ea8b083c211b.jpg",
+      "PackagePath": "staticwebassets\\Images\\inventory\\99d29aec-acb2-4ad0-8cc2-ea8b083c211b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\inventory\\a71aa8f1-0f6b-4ab5-a162-acc06652ecd3.jpg",
+      "PackagePath": "staticwebassets\\Images\\inventory\\a71aa8f1-0f6b-4ab5-a162-acc06652ecd3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\inventory\\a9340889-77d0-4b10-8b65-ee5bb8bf29e5.jpg",
+      "PackagePath": "staticwebassets\\Images\\inventory\\a9340889-77d0-4b10-8b65-ee5bb8bf29e5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\inventory\\b6ea0d28-c739-43e3-bc2f-c8ff0888baf0.jpg",
+      "PackagePath": "staticwebassets\\Images\\inventory\\b6ea0d28-c739-43e3-bc2f-c8ff0888baf0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\inventory\\b9d3fcb4-c32d-4e3b-89f9-8a2e0a7155e5.jpg",
+      "PackagePath": "staticwebassets\\Images\\inventory\\b9d3fcb4-c32d-4e3b-89f9-8a2e0a7155e5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\inventory\\c2015cd3-be60-4b74-99e7-63a161340f8d.jpg",
+      "PackagePath": "staticwebassets\\Images\\inventory\\c2015cd3-be60-4b74-99e7-63a161340f8d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\inventory\\c32f7f9e-7841-47ed-82d1-b63e0001fea4.jpg",
+      "PackagePath": "staticwebassets\\Images\\inventory\\c32f7f9e-7841-47ed-82d1-b63e0001fea4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\inventory\\c39981c7-4292-4170-8344-7d9983727daa.jpg",
+      "PackagePath": "staticwebassets\\Images\\inventory\\c39981c7-4292-4170-8344-7d9983727daa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\inventory\\c7c9c1c9-3376-49af-a460-42bd043fffad.jpg",
+      "PackagePath": "staticwebassets\\Images\\inventory\\c7c9c1c9-3376-49af-a460-42bd043fffad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\inventory\\cb217bb8-9698-44cf-8b63-76c82fab361a.jpg",
+      "PackagePath": "staticwebassets\\Images\\inventory\\cb217bb8-9698-44cf-8b63-76c82fab361a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\inventory\\f8b27dc9-d0a9-4763-9ba0-af107de3572b.jpg",
+      "PackagePath": "staticwebassets\\Images\\inventory\\f8b27dc9-d0a9-4763-9ba0-af107de3572b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\inventory\\ffa80190-f242-45a5-be0a-04a2599f82ce.jpg",
+      "PackagePath": "staticwebassets\\Images\\inventory\\ffa80190-f242-45a5-be0a-04a2599f82ce.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\inventory\\ffd67c80-2f48-42b9-80ea-061122b6772b.jpg",
+      "PackagePath": "staticwebassets\\Images\\inventory\\ffd67c80-2f48-42b9-80ea-061122b6772b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\inventory\\product_default.png",
+      "PackagePath": "staticwebassets\\Images\\inventory\\product_default.png"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\lpos\\ITSolutions_62840\\customer_ledger.pdf",
+      "PackagePath": "staticwebassets\\Images\\lpos\\ITSolutions_62840\\customer_ledger.pdf"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\profiles\\24cb9548-507f-439b-afe9-c5153148d16d.jpg",
+      "PackagePath": "staticwebassets\\Images\\profiles\\24cb9548-507f-439b-afe9-c5153148d16d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\profiles\\2b426d3d-d81b-42d0-9c19-7a999e8b80d2.jpg",
+      "PackagePath": "staticwebassets\\Images\\profiles\\2b426d3d-d81b-42d0-9c19-7a999e8b80d2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\profiles\\65c0c73f-6110-4818-8c31-11e9240dc090.jpg",
+      "PackagePath": "staticwebassets\\Images\\profiles\\65c0c73f-6110-4818-8c31-11e9240dc090.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\profiles\\6c529341-a530-4874-bb4d-194a26c4691c.jpg",
+      "PackagePath": "staticwebassets\\Images\\profiles\\6c529341-a530-4874-bb4d-194a26c4691c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\profiles\\default-user-icon-4.jpg",
+      "PackagePath": "staticwebassets\\Images\\profiles\\default-user-icon-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\profiles\\e4b785db-e7d5-49fb-aa5c-becf9ecc85b7.jpg",
+      "PackagePath": "staticwebassets\\Images\\profiles\\e4b785db-e7d5-49fb-aa5c-becf9ecc85b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\profiles\\e8252d15-3120-440f-8347-1bd8d222d738.jpg",
+      "PackagePath": "staticwebassets\\Images\\profiles\\e8252d15-3120-440f-8347-1bd8d222d738.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\profiles\\justus.jpg",
+      "PackagePath": "staticwebassets\\Images\\profiles\\justus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PAUL\\Desktop\\Asp_Projects\\pyme-finance-api\\wwwroot\\Images\\signatures\\abcb557d-6d51-498d-b5f6-307f0fdf6151.svg",
+      "PackagePath": "staticwebassets\\Images\\signatures\\abcb557d-6d51-498d-b5f6-307f0fdf6151.svg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.pyme_finance_api.props",
+      "PackagePath": "build\\pyme_finance_api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.pyme_finance_api.props",
+      "PackagePath": "buildMultiTargeting\\pyme_finance_api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.pyme_finance_api.props",
+      "PackagePath": "buildTransitive\\pyme_finance_api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.pyme_finance_api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

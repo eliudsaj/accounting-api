@@ -1,0 +1,78 @@
+2021-10-26 08:10:16.3125|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-26 08:10:16.3657|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-26 08:10:16.3726|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-26 11:02:10.2333|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-26 11:02:10.2587|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-26 11:02:10.2635|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-26 11:02:15.3784|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-26 11:02:16.2156|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-26 11:04:19.3496|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-26 11:04:19.3827|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-26 11:04:19.3915|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-26 11:06:52.1184|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-10-26 11:40:04.0187|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-26 11:40:04.1084|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-26 11:40:04.1400|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-26 11:40:14.5318|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-26 11:40:15.3875|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-26 12:48:02.3435|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-26 12:48:02.3693|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-26 12:48:02.3741|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-26 12:48:22.4562|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-26 12:48:23.3336|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-26 12:49:01.3399|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-10-26 12:50:39.7532|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-26 12:50:39.7800|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-26 12:50:39.7800|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-26 12:52:13.5866|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-26 12:52:13.6130|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-26 12:52:13.6130|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-26 12:52:59.0091|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-26 12:52:59.7329|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-26 12:54:27.5669|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-26 12:54:27.6062|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-26 12:54:27.6062|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-26 12:56:37.4039|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-26 12:56:37.4330|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-26 12:56:37.4379|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-26 13:01:22.4068|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-26 13:01:22.4402|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-26 13:01:22.4402|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-26 13:02:28.3509|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-26 13:02:28.3793|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-26 13:02:28.3793|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-26 13:05:22.4480|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-26 13:05:22.4750|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-26 13:05:22.4808|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-26 13:07:45.4444|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-26 13:07:45.4784|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-26 13:07:45.4844|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-26 13:12:12.5374|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-26 13:12:12.5716|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-26 13:12:12.5768|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-26 13:13:27.9380|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-26 13:13:27.9697|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-26 13:13:27.9697|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-26 13:14:37.5947|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-26 13:14:37.6221|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-26 13:14:37.6221|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-26 14:08:43.5633|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-26 14:08:43.5900|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-26 14:08:43.5950|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-26 14:11:14.0786|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-26 14:11:14.1105|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-26 14:11:14.1105|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-26 14:13:09.1964|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:Login | Start method |Params pyme_finance_api.Models.Authentication.Users
+2021-10-26 14:13:10.6412|INFO|pyme_finance_api.Controllers.Auth.LoginController|Class:LoginController | Method:LoginSuccess | Complete method
+2021-10-26 14:15:44.5535|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-26 14:15:44.5841|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-26 14:15:44.5841|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-26 14:16:17.7630|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-26 14:16:17.7889|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-26 14:16:17.7955|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-26 14:17:23.4934|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-26 14:17:23.5277|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-26 14:17:23.5277|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api
+2021-10-26 14:18:36.2224|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-26 14:18:36.2477|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-26 14:18:36.2477|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\pyme-finance-api

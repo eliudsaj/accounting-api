@@ -1,0 +1,184 @@
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\bin\Release\netcoreapp3.1\pyme_finance_api.StaticWebAssets.xml
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\bin\Release\netcoreapp3.1\pyme_finance_api.exe
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\bin\Release\netcoreapp3.1\pyme_finance_api.deps.json
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\bin\Release\netcoreapp3.1\pyme_finance_api.runtimeconfig.json
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\bin\Release\netcoreapp3.1\pyme_finance_api.runtimeconfig.dev.json
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\bin\Release\netcoreapp3.1\pyme_finance_api.dll
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\bin\Release\netcoreapp3.1\pyme_finance_api.pdb
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\bin\Release\netcoreapp3.1\MailKit.dll
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\bin\Release\netcoreapp3.1\MimeKit.dll
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\bin\Release\netcoreapp3.1\Npgsql.dll
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\obj\Release\netcoreapp3.1\pyme_finance_api.csprojAssemblyReference.cache
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\obj\Release\netcoreapp3.1\pyme_finance_api.AssemblyInfoInputs.cache
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\obj\Release\netcoreapp3.1\pyme_finance_api.AssemblyInfo.cs
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\obj\Release\netcoreapp3.1\pyme_finance_api.csproj.CoreCompileInputs.cache
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\obj\Release\netcoreapp3.1\pyme_finance_api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\obj\Release\netcoreapp3.1\pyme_finance_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\obj\Release\netcoreapp3.1\staticwebassets\pyme_finance_api.StaticWebAssets.Manifest.cache
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\obj\Release\netcoreapp3.1\staticwebassets\pyme_finance_api.StaticWebAssets.xml
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\obj\Release\netcoreapp3.1\scopedcss\bundle\pyme_finance_api.styles.css
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\obj\Release\netcoreapp3.1\pyme_finance_api.RazorTargetAssemblyInfo.cache
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\obj\Release\netcoreapp3.1\pyme_finance_api.csproj.CopyComplete
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\obj\Release\netcoreapp3.1\pyme_finance_api.dll
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\obj\Release\netcoreapp3.1\pyme_finance_api.pdb
+C:\Users\Ngenx\Documents\Visual Studio 2019\MY Projects\pyme_finance_api\obj\Release\netcoreapp3.1\pyme_finance_api.genruntimeconfig.cache
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\bin\Release\netcoreapp3.1\pyme_finance_api.StaticWebAssets.xml
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\bin\Release\netcoreapp3.1\pyme_finance_api.exe
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\bin\Release\netcoreapp3.1\pyme_finance_api.deps.json
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\bin\Release\netcoreapp3.1\pyme_finance_api.runtimeconfig.json
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\bin\Release\netcoreapp3.1\pyme_finance_api.runtimeconfig.dev.json
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\bin\Release\netcoreapp3.1\pyme_finance_api.dll
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\bin\Release\netcoreapp3.1\pyme_finance_api.pdb
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\bin\Release\netcoreapp3.1\MailKit.dll
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\bin\Release\netcoreapp3.1\MimeKit.dll
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\bin\Release\netcoreapp3.1\Npgsql.dll
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\obj\Release\netcoreapp3.1\pyme_finance_api.csprojAssemblyReference.cache
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\obj\Release\netcoreapp3.1\pyme_finance_api.AssemblyInfoInputs.cache
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\obj\Release\netcoreapp3.1\pyme_finance_api.AssemblyInfo.cs
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\obj\Release\netcoreapp3.1\pyme_finance_api.csproj.CoreCompileInputs.cache
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\obj\Release\netcoreapp3.1\pyme_finance_api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\obj\Release\netcoreapp3.1\pyme_finance_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\obj\Release\netcoreapp3.1\staticwebassets\pyme_finance_api.StaticWebAssets.Manifest.cache
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\obj\Release\netcoreapp3.1\staticwebassets\pyme_finance_api.StaticWebAssets.xml
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\obj\Release\netcoreapp3.1\scopedcss\bundle\pyme_finance_api.styles.css
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\obj\Release\netcoreapp3.1\pyme_finance_api.RazorTargetAssemblyInfo.cache
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\obj\Release\netcoreapp3.1\pyme_finance_api.csproj.CopyComplete
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\obj\Release\netcoreapp3.1\pyme_finance_api.dll
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\obj\Release\netcoreapp3.1\pyme_finance_api.pdb
+C:\Users\siri\Documents\Visual Studio 2019\Myprojects\Pyme Finance\pyme-finance-api\obj\Release\netcoreapp3.1\pyme_finance_api.genruntimeconfig.cache
+D:\pyme-finance-api\bin\Release\netcoreapp3.1\nlog.config
+D:\pyme-finance-api\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\pyme-finance-api\bin\Release\netcoreapp3.1\appsettings.json
+D:\pyme-finance-api\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+D:\pyme-finance-api\bin\Release\netcoreapp3.1\pyme_finance_api.StaticWebAssets.xml
+D:\pyme-finance-api\bin\Release\netcoreapp3.1\pyme_finance_api.exe
+D:\pyme-finance-api\bin\Release\netcoreapp3.1\pyme_finance_api.deps.json
+D:\pyme-finance-api\bin\Release\netcoreapp3.1\pyme_finance_api.runtimeconfig.json
+D:\pyme-finance-api\bin\Release\netcoreapp3.1\pyme_finance_api.runtimeconfig.dev.json
+D:\pyme-finance-api\bin\Release\netcoreapp3.1\pyme_finance_api.dll
+D:\pyme-finance-api\bin\Release\netcoreapp3.1\pyme_finance_api.pdb
+D:\pyme-finance-api\bin\Release\netcoreapp3.1\MailKit.dll
+D:\pyme-finance-api\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\pyme-finance-api\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\pyme-finance-api\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\pyme-finance-api\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\pyme-finance-api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\pyme-finance-api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\pyme-finance-api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\pyme-finance-api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\pyme-finance-api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\pyme-finance-api\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\pyme-finance-api\bin\Release\netcoreapp3.1\MimeKit.dll
+D:\pyme-finance-api\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\pyme-finance-api\bin\Release\netcoreapp3.1\Npgsql.dll
+D:\pyme-finance-api\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\pyme-finance-api\bin\Release\netcoreapp3.1\Serilog.dll
+D:\pyme-finance-api\bin\Release\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\pyme-finance-api\bin\Release\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+D:\pyme-finance-api\bin\Release\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\pyme-finance-api\bin\Release\netcoreapp3.1\Serilog.Sinks.Async.dll
+D:\pyme-finance-api\bin\Release\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\pyme-finance-api\bin\Release\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+D:\pyme-finance-api\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\pyme-finance-api\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\pyme-finance-api\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\pyme-finance-api\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\pyme-finance-api\obj\Release\netcoreapp3.1\pyme_finance_api.AssemblyInfoInputs.cache
+D:\pyme-finance-api\obj\Release\netcoreapp3.1\pyme_finance_api.AssemblyInfo.cs
+D:\pyme-finance-api\obj\Release\netcoreapp3.1\pyme_finance_api.csproj.CoreCompileInputs.cache
+D:\pyme-finance-api\obj\Release\netcoreapp3.1\pyme_finance_api.MvcApplicationPartsAssemblyInfo.cs
+D:\pyme-finance-api\obj\Release\netcoreapp3.1\pyme_finance_api.MvcApplicationPartsAssemblyInfo.cache
+D:\pyme-finance-api\obj\Release\netcoreapp3.1\pyme_finance_api.RazorTargetAssemblyInfo.cache
+D:\pyme-finance-api\obj\Release\netcoreapp3.1\pyme_finance_api.csproj.CopyComplete
+D:\pyme-finance-api\obj\Release\netcoreapp3.1\staticwebassets\pyme_finance_api.StaticWebAssets.Manifest.cache
+D:\pyme-finance-api\obj\Release\netcoreapp3.1\staticwebassets\pyme_finance_api.StaticWebAssets.xml
+D:\pyme-finance-api\obj\Release\netcoreapp3.1\pyme_finance_api.dll
+D:\pyme-finance-api\obj\Release\netcoreapp3.1\pyme_finance_api.pdb
+D:\pyme-finance-api\obj\Release\netcoreapp3.1\pyme_finance_api.genruntimeconfig.cache
+D:\pyme-finance-api\obj\Release\netcoreapp3.1\pyme_finance_api.csprojAssemblyReference.cache
+E:\pyme_backup\pyme-finance-api\bin\Release\netcoreapp3.1\nlog.config
+E:\pyme_backup\pyme-finance-api\bin\Release\netcoreapp3.1\appsettings.Development.json
+E:\pyme_backup\pyme-finance-api\bin\Release\netcoreapp3.1\appsettings.json
+E:\pyme_backup\pyme-finance-api\bin\Release\netcoreapp3.1\pyme_finance_api.StaticWebAssets.xml
+E:\pyme_backup\pyme-finance-api\bin\Release\netcoreapp3.1\pyme_finance_api.exe
+E:\pyme_backup\pyme-finance-api\bin\Release\netcoreapp3.1\pyme_finance_api.deps.json
+E:\pyme_backup\pyme-finance-api\bin\Release\netcoreapp3.1\pyme_finance_api.runtimeconfig.json
+E:\pyme_backup\pyme-finance-api\bin\Release\netcoreapp3.1\pyme_finance_api.runtimeconfig.dev.json
+E:\pyme_backup\pyme-finance-api\bin\Release\netcoreapp3.1\pyme_finance_api.dll
+E:\pyme_backup\pyme-finance-api\bin\Release\netcoreapp3.1\pyme_finance_api.pdb
+E:\pyme_backup\pyme-finance-api\bin\Release\netcoreapp3.1\MailKit.dll
+E:\pyme_backup\pyme-finance-api\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\pyme_backup\pyme-finance-api\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\pyme_backup\pyme-finance-api\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\pyme_backup\pyme-finance-api\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\pyme_backup\pyme-finance-api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\pyme_backup\pyme-finance-api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\pyme_backup\pyme-finance-api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\pyme_backup\pyme-finance-api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\pyme_backup\pyme-finance-api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\pyme_backup\pyme-finance-api\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\pyme_backup\pyme-finance-api\bin\Release\netcoreapp3.1\MimeKit.dll
+E:\pyme_backup\pyme-finance-api\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+E:\pyme_backup\pyme-finance-api\bin\Release\netcoreapp3.1\Npgsql.dll
+E:\pyme_backup\pyme-finance-api\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\pyme_backup\pyme-finance-api\bin\Release\netcoreapp3.1\Serilog.dll
+E:\pyme_backup\pyme-finance-api\bin\Release\netcoreapp3.1\Serilog.Extensions.Logging.dll
+E:\pyme_backup\pyme-finance-api\bin\Release\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+E:\pyme_backup\pyme-finance-api\bin\Release\netcoreapp3.1\Serilog.Formatting.Compact.dll
+E:\pyme_backup\pyme-finance-api\bin\Release\netcoreapp3.1\Serilog.Sinks.Async.dll
+E:\pyme_backup\pyme-finance-api\bin\Release\netcoreapp3.1\Serilog.Sinks.File.dll
+E:\pyme_backup\pyme-finance-api\bin\Release\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+E:\pyme_backup\pyme-finance-api\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\pyme_backup\pyme-finance-api\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\pyme_backup\pyme-finance-api\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\pyme_backup\pyme-finance-api\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\pyme_backup\pyme-finance-api\obj\Release\netcoreapp3.1\pyme_finance_api.csproj.AssemblyReference.cache
+E:\pyme_backup\pyme-finance-api\obj\Release\netcoreapp3.1\pyme_finance_api.GeneratedMSBuildEditorConfig.editorconfig
+E:\pyme_backup\pyme-finance-api\obj\Release\netcoreapp3.1\pyme_finance_api.AssemblyInfoInputs.cache
+E:\pyme_backup\pyme-finance-api\obj\Release\netcoreapp3.1\pyme_finance_api.AssemblyInfo.cs
+E:\pyme_backup\pyme-finance-api\obj\Release\netcoreapp3.1\pyme_finance_api.csproj.CoreCompileInputs.cache
+E:\pyme_backup\pyme-finance-api\obj\Release\netcoreapp3.1\pyme_finance_api.MvcApplicationPartsAssemblyInfo.cs
+E:\pyme_backup\pyme-finance-api\obj\Release\netcoreapp3.1\pyme_finance_api.MvcApplicationPartsAssemblyInfo.cache
+E:\pyme_backup\pyme-finance-api\obj\Release\netcoreapp3.1\staticwebassets\pyme_finance_api.StaticWebAssets.Manifest.cache
+E:\pyme_backup\pyme-finance-api\obj\Release\netcoreapp3.1\staticwebassets\pyme_finance_api.StaticWebAssets.xml
+E:\pyme_backup\pyme-finance-api\obj\Release\netcoreapp3.1\pyme_finance_api.RazorTargetAssemblyInfo.cache
+E:\pyme_backup\pyme-finance-api\obj\Release\netcoreapp3.1\pyme_finance_api.csproj.CopyComplete
+E:\pyme_backup\pyme-finance-api\obj\Release\netcoreapp3.1\pyme_finance_api.dll
+E:\pyme_backup\pyme-finance-api\obj\Release\netcoreapp3.1\pyme_finance_api.pdb
+E:\pyme_backup\pyme-finance-api\obj\Release\netcoreapp3.1\pyme_finance_api.genruntimeconfig.cache

@@ -1,0 +1,205 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Receipt</title>
+
+
+</head>
+<body>
+
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+            <td align="center" valign="top" bgcolor="#ffe77b" style="background-color: #f5f5f5;">
+                <br>
+                <br>
+
+
+
+                <table width="600" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                        <td height="70" align="left" valign="middle"></td>
+                    </tr>
+
+                    <tr>
+                        <td align="left" valign="top" bgcolor="#564319" style="background: -webkit-gradient(linear, right top, left top, from(rgba(46, 182, 151, .18)), to(transparent)); background-image: linear-gradient(270deg, rgba(46, 182, 151, .18), transparent); background-color: #445175; font-family: Arial, Helvetica, sans-serif; padding: 10px;">
+                            <div style="font-size: 18px; color: #ffffff;">
+                                Payment Receipt Invoice ({0})
+                            </div>
+                            <div style="font-size: 13px; color: #ffffff; text-align: right;">
+                                {1}
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="left" valign="top" bgcolor="#ffffff" style="background-color: #ffffff;">
+
+
+                            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="em_full_wrap" align="center" style="background: #fff;">
+                                <tr>
+                                    <td align="center" valign="top">
+                                        <img src="{2}" border="0" style="display:block; object-fit: cover; width: 100%; max-height: 200px; min-height: 100px; display: none;" class="em_w150" />
+                                    </td>
+                                </tr>
+                            </table>
+
+                            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                <tr>
+                                    <!--
+        <td align="right" width="100%">
+            <img src="https://hics.nhif.or.ke/skins/default/images/login_top_icon.jpg" border="0" style="display: block; object-fit: cover; width: 100%; height: 70px;"/>
+    </td>-->
+
+                                    <td align="right" style="color: #525252; font-family: Arial, Helvetica, sans-serif; padding: 10px;">
+                                        <div style="font-size: 16px; margin-bottom: 10px; font-weight: 600;">
+                                            {3}
+                                        </div>
+
+
+                                        <p style="font-size: 13px; margin-bottom: 0px; margin-top: -5px;">
+                                            {4}
+                                        </p>
+                                        <p style="font-size: 13px; margin-bottom: 0px; margin-top: -.1px;">
+                                            {5}
+                                        </p>
+                                        <p style="font-size: 13px; margin-bottom: 0px; margin-top: -.5px;">
+                                            {6}
+                                        </p>
+                                    </td>
+                                </tr>
+                            </table>
+
+
+
+                            <table width="95%" border="0" align="center" cellpadding="0" cellspacing="0">
+                                <tr>
+
+                                    <td align="left" valign="middle" style="color: #525252; font-family: Arial, Helvetica, sans-serif; padding: 10px;">
+                                        <div style="font-size: 16px; margin-bottom: 10px; font-weight: 600;">
+                                            Payment confirmation receipt <span style="border-bottom: solid 2px #505050;">{7}</span>.
+                                        </div>
+                                        <div style="font-size: 13px; font-family: sans-serif;">
+                                            Your payment of {8} has been successfully received towards {9}
+                                            <p>
+                                                Attached are details regarding your invoice and receipt payment.
+                                            </p>
+
+                                        </div>
+                                    </td>
+                                </tr>
+                            </table>
+
+                            <p style="font-size: 14px; font-weight: 600; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding-left: 10px; margin-top: -15px; ">
+                                Invoice Details:
+                            </p>
+                            <table width="100%" style="border-top: solid 2px #505050; border-bottom: solid 2px #505050; font-size: 12px; font-family: Arial, Helvetica, sans-serif; margin-bottom: 20px; margin-top: -10px; border-collapse: collapse; ">
+
+                                <tr style="width: 100%; font-size: 12px;">
+                                    <th style="font-weight: 600; border: solid 2px #505050;">REF</th>
+                                    <th style="font-weight: 600; border: solid 2px #505050; ">DATE</th>
+                                    <th style="font-weight: 600; border: solid 2px #505050; ">INV AMOUNT</th>
+                                    <th style="font-weight: 600; border: solid 2px #505050; ">PAYMENT DAYS</th>
+                                    <th style="font-weight: 600; border: solid 2px #505050; ">DUE DATE</th>
+                                    <th style="font-weight: 600; border: solid 2px #505050; ">PROCESSED BY</th>
+                                </tr>
+
+
+                                <tr style="width: 100%; font-size: 12px; font-family: 'Segoe UI'; padding: 10px; ">
+                                    <td style="font-weight: 500; border: solid 2px #505050;  ">{10}</td>
+                                    <td style="font-weight: 500; border: solid 2px #505050;">{11}</td>
+                                    <td style="font-weight: 500; border: solid 2px #505050;">{12}</td>
+                                    <td style="font-weight: 500; border: solid 2px #505050;">{13}</td>
+                                    <td style="font-weight: 500; border: solid 2px #505050;">{14}</td>
+                                    <td style="font-weight: 500; border: solid 2px #505050;">{15}</td>
+                                </tr>
+
+                            </table>
+
+                            <p style="font-size: 14px; font-weight: 600; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding-left: 10px; margin-top: -15px; ">
+                                Receipt Details:
+                            </p>
+
+                            <table width="100%" style="border-top: solid 2px #505050; border-bottom: solid 2px #505050; font-size: 12px; font-family: Arial, Helvetica, sans-serif; margin-bottom: 20px; margin-top: -10px; border-collapse: collapse; ">
+
+                                <tr>
+                                    <td style="border: solid 2px #505050;">Amount received from:  <span style="float: right; margin-right: 10px;">{16} </span> </td>
+                                    <td style="border: solid 2px #505050;">Receipt</td>
+                                    <td style="border: solid 2px #505050;">{17}</td>
+                                </tr>
+                                <tr>
+                                    <td style="border: solid 2px #505050;">Address  <span style="float: right; margin-right: 10px;">{18}</span> </td>
+                                    <td>Amount</td>
+                                    <td style="border: solid 2px #505050;">{19}</td>
+                                </tr>
+                                <tr>
+                                    <td style="border: solid 2px #505050;" colspan="3">
+                                        Purpose of payment <span style="float: right;">{20}</span>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="border: solid 2px #505050;">
+                                        Customer  <span style="float: right; margin-right: 10px;">
+                                            {21}
+                                        </span>
+                                    </td>
+                                    <td style="border: solid 2px #505050;">Payment mode</td>
+                                    <td style="border: solid 2px #505050;">{22} <span style="float: right; margin-right: 10px;">{23}</span></td>
+                                </tr>
+                                <tr>
+                                    <td style="border: solid 2px #505050;">Account  <span style="float: right; margin-right: 10px;">Total amount due {24}</span> </td>
+                                    <td style="border: solid 2px #505050;">Amount paid <span style="float: right; margin-right: 10px;">{25} </span> </td>
+                                    <td style="border: solid 2px #505050;">Balance <span style="float: right; margin-right: 10px;">{26}</span> </td>
+                                </tr>
+                                <tr style="border: solid 2px #505050;">
+                                    <td colspan="3">
+                                        Amount received by <span style="float: right;">{27}</span>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="border: solid 2px #505050;">
+                                        Authorized signature
+                                    </td>
+                                    <td style="border: solid 2px #505050; text-align:center;">
+                                        ___
+                                    </td>
+                                    <td style="border: solid 2px #505050;">
+                                        Sign date
+                                    </td>
+                                </tr>
+
+
+                            </table>
+
+
+
+
+                            <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+                                <tr>
+
+                                    <td width="50%" align="left" valign="middle" style="color: #564319; font-size: 11px; font-family: Arial, Helvetica, sans-serif; padding: 10px;">
+
+                                        <b>Powered by NGENX limited</b><br>
+                                        All <a href="javascript:void(0)" target="_blank" style="color: #564319; text-decoration: none;">Terms and Conditions apply</a>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+
+                </table>
+                <br>
+                <br>
+
+
+
+            </td>
+        </tr>
+
+
+    </table>
+
+
+
+
+</body>
+</html>

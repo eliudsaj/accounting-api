@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\pyme_finance_api.props" />
+</Project>
