@@ -210,7 +210,7 @@ namespace pyme_finance_api.Service.MailService
                 {
                     smtp.ServerCertificateValidationCallback = (s, c, h, e) => true;
                     smtp.Connect("Smtp.munshiram.com", 587, SecureSocketOptions.Auto);
-                    smtp.Authenticate("noreply@ngenx.io", "Ny@/i614");
+                    smtp.Authenticate("email@example.com", "1234");
                     smtp.Send(email);
                     smtp.Disconnect(true);
                 }
